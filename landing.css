@@ -1,0 +1,58 @@
+.Header{
+background-color: #1f2937;
+height: 350px;
+}
+.info{
+height: 250px;
+}
+.info .title{
+text-align: center;
+}
+.info .Flex-container{
+display: flex;
+margin: 10px;
+align-items: center;
+justify-content: center;
+}
+.info .Flex-container div{
+margin: 10px;
+}
+.info .Flex-container div .box{
+border-radius: 5px;
+border: #00008B 4px solid;
+
+}
+.quote{
+background-color: #e5e7eb;
+height: 250px;
+text-align: center;
+}
+.quote .para{
+padding-top: 110px;
+}
+.quote .name{
+margin-top: 10px;
+}
+.sign-up{
+height: 250px;
+}
+.sign-up .Blue{
+display: flex;
+padding: 10px;
+margin: 125px;
+background-color: #5656c2;
+}
+.sign-up .Blue .word{
+}
+.sign-up .Blue .button{
+margin-left: 75px;
+}
+.footer{
+background-color: #1f2937;
+height: 75px;
+}
+.footer .copy{
+padding-top: 25px;
+text-align: center;
+color: aliceblue;
+}
