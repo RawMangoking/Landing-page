@@ -1,6 +1,28 @@
 .Header{
 background-color: #1f2937;
 height: 350px;
+display: block;
+}
+.Header .a{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.Header .a .one{
+    margin-right: 650px;
+}
+.Header .a .two .link2{
+margin-left: 10px;
+margin-right: 10px;
+}
+.Header .b{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 100px;
+}
+.Header .two{
+display: flex;
 }
 .info{
 height: 250px;
@@ -43,6 +65,7 @@ margin: 125px;
 background-color: #5656c2;
 }
 .sign-up .Blue .word{
+    background-color: white;
 }
 .sign-up .Blue .button{
 margin-left: 75px;
