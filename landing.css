@@ -24,6 +24,12 @@ margin-top: 100px;
 .Header .two{
 display: flex;
 }
+.Header .b .three{
+display: flex;
+}
+.Header .b .four{
+margin-left: 250px;
+}
 .info{
 height: 250px;
 }
@@ -65,7 +71,7 @@ margin: 125px;
 background-color: #5656c2;
 }
 .sign-up .Blue .word{
-    background-color: white;
+    background-color: yellow;
 }
 .sign-up .Blue .button{
 margin-left: 75px;
