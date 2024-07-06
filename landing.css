@@ -2,6 +2,7 @@
 background-color: #1f2937;
 height: 350px;
 display: block;
+font-family: roboto;
 }
 .Header .a{
 display: flex;
@@ -75,6 +76,8 @@ background-color: #5656c2;
 }
 .sign-up .Blue .button{
 margin-left: 75px;
+background-color: #5656c2;
+color: white;
 }
 .footer{
 background-color: #1f2937;
